@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A software engineer in Salt Lake City.</h3>
 
-Hello from Salt Lake City! Welcome to my GitHub space. Dive into my project gallery to see the coding journeys I've embarked on. If you're curious or keen on teaming up for innovative ventures, I'm just a message away.
+Hello from Utah! Welcome to my GitHub space. Dive into my project gallery to see the coding journeys I've embarked on. If you're curious or keen on teaming up for innovative ventures, I'm just a message away.
 
 As an enthusiastic software engineer, I excel in tackling intricate challenges and transforming creative concepts into effective software solutions. My passion lies in the art of problem-solving and the continuous pursuit of knowledge in the ever-evolving tech landscape.
 
